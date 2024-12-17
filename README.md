@@ -1,16 +1,21 @@
-## Hi there 👋
+### **Abdallah MEGHRAOUI** 👋  
+**Software Engineer** | **AI Enginner** 
 
-<!--
-**meghraoa/meghraoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdallah-meghraoui/)  [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/meghraoa)  [![Email](https://img.shields.io/badge/Email-abdallah.meghraoui%40ens--paris--saclay.fr-FF5733)](mailto:abdallah.meghraoui@ens-paris-saclay.fr)  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **What I Do 💻**  
+🔹 **Software Engineer** with expertise in full-stack development, automation pipelines, and system architecture.  
+🔹 **AI Engineer** specializing in large language models (LLMs), machine learning, deep learning and generative AI.
+
+---
+  
+
+### **My GitHub Statistics 📊**
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=meghraoa&theme=dark&hide_border=false)<br/>
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=meghraoa&color=brightgreen)
