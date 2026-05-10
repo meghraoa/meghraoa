@@ -10,13 +10,15 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/abdallah-meghraoui/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.icons8.com/fluency/64/linkedin.png" alt="LinkedIn" width="48" height="48"/>
 </a>
+&nbsp;&nbsp;
 <a href="mailto:abdallah.meghraoui@outlook.com">
-  <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"/>
+  <img src="https://img.icons8.com/fluency/64/microsoft-outlook-2019.png" alt="Outlook" width="48" height="48"/>
 </a>
+&nbsp;&nbsp;
 <a href="https://github.com/meghraoa">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.icons8.com/fluency/64/github.png" alt="GitHub" width="48" height="48"/>
 </a>
 
 </div>
@@ -27,13 +29,15 @@
 
 ```python
 class Engineer:
-    name     = "Abdallah Meghraoui"
-    role     = "ML Engineer | Software Engineer"
-    focus    = ["LLM training & alignment",
-                "inference optimization",
-                "containerized deployment of LLM APIs"]
-    edu      = ["MVA — ENS Paris-Saclay", "Ensimag — Grenoble INP"]
-    looking  = "production LLM systems · craft-driven teams"
+    name = "Abdallah Meghraoui"
+    role = "ML Engineer | Software Engineer"
+    focus = [
+        "LLM training & alignment",
+        "Inference optimization",
+        "Containerized deployment of LLM APIs",
+    ]
+    edu = ["MVA — ENS Paris-Saclay", "Ensimag — Grenoble INP"]
+    looking = "Production LLM systems · Craft-driven teams"
 ```
 
 <br/>
@@ -42,7 +46,7 @@ class Engineer:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,docker,kubernetes,linux,bash,git,postgres,redis,aws,gcp&perline=12" alt="Tech stack"/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,docker,kubernetes,linux,bash,git,js,redis,aws,gcp&perline=12" alt="Tech stack"/>
 
 </div>
 
@@ -52,8 +56,14 @@ class Engineer:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=meghraoa&show_icons=true&theme=transparent&hide_border=true&title_color=00B4D8&icon_color=00B4D8&text_color=ffffff" height="160" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meghraoa&layout=compact&theme=transparent&hide_border=true&title_color=00B4D8&text_color=ffffff" height="160" alt="Top languages"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=meghraoa&show_icons=true&hide_border=true&bg_color=00000000&title_color=00B4D8&icon_color=00B4D8&text_color=c9d1d9"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=meghraoa&show_icons=true&hide_border=true&bg_color=00000000&title_color=0077A8&icon_color=0077A8&text_color=24292f" height="160" alt="GitHub stats"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=meghraoa&layout=compact&hide_border=true&bg_color=00000000&title_color=00B4D8&text_color=c9d1d9"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=meghraoa&layout=compact&hide_border=true&bg_color=00000000&title_color=0077A8&text_color=24292f" height="160" alt="Top languages"/>
+</picture>
 
 </div>
 
@@ -61,7 +71,10 @@ class Engineer:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/meghraoa/meghraoa/output/github-contribution-grid-snake.svg" alt="Snake animation eating my contributions"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/meghraoa/meghraoa/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/meghraoa/meghraoa/output/github-contribution-grid-snake.svg" alt="Snake animation eating my contributions"/>
+</picture>
 
 </div>
 
