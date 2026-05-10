@@ -9,7 +9,9 @@
 
 <br/>
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/abdallah-meghraoui/) &nbsp; [![Email](https://skillicons.dev/icons?i=gmail)](mailto:abdallah.meghraoui@outlook.com) &nbsp; [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/meghraoa)
+*Let's connect — always up for a chat about LLM training & prod*
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/abdallah-meghraoui/) &nbsp; [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/meghraoa)
 
 </div>
 
