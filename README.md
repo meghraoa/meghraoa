@@ -9,7 +9,7 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/abdallah-meghraoui/"><img src="https://img.icons8.com/fluency/64/linkedin.png" alt="LinkedIn" width="48" height="48"/></a>&nbsp;&nbsp;<a href="mailto:abdallah.meghraoui@outlook.com"><img src="https://img.icons8.com/fluency/64/microsoft-outlook-2019.png" alt="Outlook" width="48" height="48"/></a>&nbsp;&nbsp;<a href="https://github.com/meghraoa"><img src="https://img.icons8.com/fluency/64/github.png" alt="GitHub" width="48" height="48"/></a>
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/abdallah-meghraoui/) &nbsp; [![Email](https://skillicons.dev/icons?i=gmail)](mailto:abdallah.meghraoui@outlook.com) &nbsp; [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/meghraoa)
 
 </div>
 
