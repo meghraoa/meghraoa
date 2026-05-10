@@ -9,17 +9,7 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/abdallah-meghraoui/">
-  <img src="https://img.icons8.com/fluency/64/linkedin.png" alt="LinkedIn" width="48" height="48"/>
-</a>
-&nbsp;&nbsp;
-<a href="mailto:abdallah.meghraoui@outlook.com">
-  <img src="https://img.icons8.com/fluency/64/microsoft-outlook-2019.png" alt="Outlook" width="48" height="48"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/meghraoa">
-  <img src="https://img.icons8.com/fluency/64/github.png" alt="GitHub" width="48" height="48"/>
-</a>
+<a href="https://www.linkedin.com/in/abdallah-meghraoui/"><img src="https://img.icons8.com/fluency/64/linkedin.png" alt="LinkedIn" width="48" height="48"/></a>&nbsp;&nbsp;<a href="mailto:abdallah.meghraoui@outlook.com"><img src="https://img.icons8.com/fluency/64/microsoft-outlook-2019.png" alt="Outlook" width="48" height="48"/></a>&nbsp;&nbsp;<a href="https://github.com/meghraoa"><img src="https://img.icons8.com/fluency/64/github.png" alt="GitHub" width="48" height="48"/></a>
 
 </div>
 
